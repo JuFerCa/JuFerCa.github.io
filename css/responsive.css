@@ -28,7 +28,7 @@
     width: 28.3333%;
   }
   
-  #gallery li:nth-child(3n+1) {
+  #gallery li:nth-child(3n + 1) {
     clear: left;
   }
   
@@ -77,12 +77,5 @@
   header {
     border-bottom: 5px solid #599a68;
     margin-bottom: 60px;
-  }
-  
-  
+  }  
 }
-
-
-
-
-
